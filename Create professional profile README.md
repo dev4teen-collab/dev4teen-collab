@@ -1,7 +1,6 @@
 <p align="center">
   <img src="Profile-banner.png" width="100%" alt="Sukhdev Singh - GitHub Profile">
 </p>
-# Hi there, I'm Sukhdev Singh 👋
 
 ### Technology Enthusiast | Python Learner | AI & Automation
 
