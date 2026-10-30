@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Sukhdev Singh 👋
 
-<!--
-**dev4teen-collab/dev4teen-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technology Enthusiast | Python Learner | AI & Automation
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about exploring technology, building useful
+digital solutions, and continuously learning new skills.
+
+## 🚀 About Me
+
+- 💻 Interested in IT & Networking
+- 🐍 Learning Python Programming
+- 🤖 Exploring Artificial Intelligence
+- ⚙️ Interested in Automation & Productivity Tools
+- 🌐 Exploring Software Development
+- 📚 Always learning and experimenting with technology
+
+## 🛠️ Areas of Interest
+
+- Python Programming
+- Artificial Intelligence
+- IT Infrastructure & Networking
+- System Administration
+- Automation Tools
+- Technology Projects
+
+## 🎯 Current Goals
+
+- Build practical Python projects
+- Learn automation through real-world applications
+- Explore AI-powered tools
+- Improve software development skills
+
+## 🤝 Let's Connect
+
+Always interested in learning, exploring
+and collaborating on useful technology projects.
+
+---
+
+⭐ Thanks for visiting my profile!
